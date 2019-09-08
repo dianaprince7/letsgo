@@ -5,6 +5,9 @@
 https://www.youtube.com/watch?v=vwJnoGSXmvM&feature=youtu.be
 https://hackerspace.govhack.org/projects/public_transport_app
 
+# Sister Project 
+https://github.com/Joan-SHI/Transporters/blob/master/README.md
+
 The purpose of this app is to make it easier for general public to plan their trip when using public transport. The idea behind this app is to influence people
 to take public transport, reduce air pollution, less environmental damage and reducing petrol usage. This app is directed for smaller cities such as Taupo, Gisborne
 Hawkes Bay, Palmerston North, Wairoa and other smaller regions. These smaller cities are lacking a service that provides clear information about the public transport 
