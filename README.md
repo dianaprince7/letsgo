@@ -47,5 +47,6 @@ As this app progresses, it can be expanded to add other public transports such a
 + As a user I want to be able to .. depending on time of day and for user, show hourly weather update
 
 
-###comment 
-We started of the project thinking of developing an IOS app but due to some obsticales we ended up using android environment to create the app.
+#### Comment
+
+We started off the project thinking of developing an IOS app using React Native but due to some obsticales and limited time we ended up using android environment using Java to create this app.
