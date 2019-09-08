@@ -2,8 +2,7 @@
 
 # Public Transport App 
 
-# The Link to GovHack
-https://hackerspace.govhack.org/projects/public_transport_app
+The Link to GovHack https://hackerspace.govhack.org/projects/public_transport_app
 
 The purpose of this app is to make it easier for general public to plan their trip when using public transport. The idea behind this app is to influence people
 to take public transport, reduce air pollution, less environmental damage and reducing petrol usage. This app is directed for smaller cities such as Taupo, Gisborne
